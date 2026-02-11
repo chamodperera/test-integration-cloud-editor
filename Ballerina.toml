@@ -1,0 +1,5 @@
+[package]
+org = "chamodperera"
+name = "test_integration_cloud_editor"
+version = "1.0.0"
+distribution = "2201.13.1"
